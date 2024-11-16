@@ -1,1 +1,7 @@
-lease Management is a comprehensive web application designed to simplify the management of property leasing operations. It provides property owners, managers, and tenants with a seamless interface to handle various leasing tasks, including contract management, rent payments, maintenance requests, and more.
+lease Management project in salesforce is submitted by
+
+team members:R.SHALINI  
+             V.SASI PRIYA 
+             P.ABINAYA 
+             S.R JEEVITHA 
+team leader NM ID: 1074CC8FFC3BCC39C1648D04C332C7BD
